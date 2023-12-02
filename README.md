@@ -1,5 +1,5 @@
 # HOMO-MEX
-This repository contains the suplemental materials to "HOMO-MEX: A Mexican Spanish Annotated Corpus for LGBT+phobia Detection on Twitter".
+This repository contains the supplemental materials to [HOMO-MEX: A Mexican Spanish Annotated Corpus for LGBT+phobia Detection on Twitter](https://aclanthology.org/2023.woah-1.20/)
 
 The files contained here are: 
 1. The annotation guide the annotators used for the tweets. 
